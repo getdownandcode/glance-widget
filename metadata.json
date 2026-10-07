@@ -1,0 +1,6 @@
+{
+  "name": "GlanceCraft · Smartphone Widget Studio",
+  "description": "Design, customize, and export bespoke iOS and Android widgets with live smartphone home screen preview, real-time data presets, and scriptable code generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
